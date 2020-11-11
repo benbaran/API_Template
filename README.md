@@ -10,6 +10,10 @@
 
 Api - API Project
 
+* Controllers - API Endpoints
+
+* Startup.cs - Configuration and Dependency Injection
+
 Core - Shared Components
 
 * Models          - Domain Models (what we get from the database)
